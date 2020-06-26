@@ -1,0 +1,8 @@
+.VimballRecord
+localvimrc_persistence_file
+ycm_extra_conf.*
+dein/**
+doc/tags
+sessions/**
+spell/**
+ycm/**
